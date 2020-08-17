@@ -185,7 +185,7 @@ class Root extends Component {
     return (
       <AppContext.Provider value={contextElement}>
         <MainTemplate>
-          <BrowserRouter>
+          <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Switch>
               <Route
                 exact
