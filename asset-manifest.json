@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Workers-List-in-React/static/css/main.56771c66.chunk.css",
+    "main.js": "/Workers-List-in-React/static/js/main.bce0a13a.chunk.js",
+    "main.js.map": "/Workers-List-in-React/static/js/main.bce0a13a.chunk.js.map",
+    "runtime-main.js": "/Workers-List-in-React/static/js/runtime-main.88e237d7.js",
+    "runtime-main.js.map": "/Workers-List-in-React/static/js/runtime-main.88e237d7.js.map",
+    "static/js/2.c157d5d6.chunk.js": "/Workers-List-in-React/static/js/2.c157d5d6.chunk.js",
+    "static/js/2.c157d5d6.chunk.js.map": "/Workers-List-in-React/static/js/2.c157d5d6.chunk.js.map",
+    "index.html": "/Workers-List-in-React/index.html",
+    "precache-manifest.dc2ea5f71720f45593a2924cfacaf8f5.js": "/Workers-List-in-React/precache-manifest.dc2ea5f71720f45593a2924cfacaf8f5.js",
+    "service-worker.js": "/Workers-List-in-React/service-worker.js",
+    "static/css/main.56771c66.chunk.css.map": "/Workers-List-in-React/static/css/main.56771c66.chunk.css.map",
+    "static/js/2.c157d5d6.chunk.js.LICENSE.txt": "/Workers-List-in-React/static/js/2.c157d5d6.chunk.js.LICENSE.txt",
+    "static/media/add.svg": "/Workers-List-in-React/static/media/add.92586483.svg",
+    "static/media/article.svg": "/Workers-List-in-React/static/media/article.e65ea0a6.svg",
+    "static/media/avatar.svg": "/Workers-List-in-React/static/media/avatar.6318d5b9.svg",
+    "static/media/brightness.svg": "/Workers-List-in-React/static/media/brightness.2e86c766.svg",
+    "static/media/brightness2.svg": "/Workers-List-in-React/static/media/brightness2.39e9328f.svg",
+    "static/media/delete.svg": "/Workers-List-in-React/static/media/delete.c38db5bf.svg",
+    "static/media/edit-pen.svg": "/Workers-List-in-React/static/media/edit-pen.a61b636a.svg",
+    "static/media/library.svg": "/Workers-List-in-React/static/media/library.42305ce4.svg",
+    "static/media/logo.svg": "/Workers-List-in-React/static/media/logo.40cf5acb.svg",
+    "static/media/men.svg": "/Workers-List-in-React/static/media/men.a5745666.svg",
+    "static/media/person_search.svg": "/Workers-List-in-React/static/media/person_search.6ab43c24.svg",
+    "static/media/search.svg": "/Workers-List-in-React/static/media/search.bad2d7d7.svg",
+    "static/media/women.svg": "/Workers-List-in-React/static/media/women.3b0f1bc7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88e237d7.js",
+    "static/js/2.c157d5d6.chunk.js",
+    "static/css/main.56771c66.chunk.css",
+    "static/js/main.bce0a13a.chunk.js"
+  ]
+}

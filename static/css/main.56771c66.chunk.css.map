@@ -1,0 +1,1 @@
+{"version":3,"sources":["Input.module.scss"],"names":[],"mappings":"AAAA,oBACE,WAAY,CACZ,mBAAsB,CACtB,WAAY","file":"main.56771c66.chunk.css","sourcesContent":[".input {\r\n  width: 25rem;\r\n  padding: 0.5rem 0.3rem;\r\n  border: none;\r\n}"]}
