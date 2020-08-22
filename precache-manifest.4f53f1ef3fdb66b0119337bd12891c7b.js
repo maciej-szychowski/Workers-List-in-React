@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e2ca5e91bf5756108c18a6c7a782ca7",
+    "revision": "51a526273679d8977e447da086ba66bc",
     "url": "/Workers-List-in-React/index.html"
   },
   {
-    "revision": "301c58c8a277c24488a2",
+    "revision": "73128b34994c8c1cb65f",
     "url": "/Workers-List-in-React/static/css/main.56771c66.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Workers-List-in-React/static/js/2.c157d5d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "301c58c8a277c24488a2",
-    "url": "/Workers-List-in-React/static/js/main.8cdb7a21.chunk.js"
+    "revision": "73128b34994c8c1cb65f",
+    "url": "/Workers-List-in-React/static/js/main.2a5e26be.chunk.js"
   },
   {
     "revision": "46105c79470f9263582b",
